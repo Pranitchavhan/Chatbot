@@ -4,7 +4,7 @@ from transformers import pipeline
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import warnings
-import torch
+
 import tensorflow as tf
 
 # Suppress warnings
